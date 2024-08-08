@@ -19,7 +19,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "siritami.workers.dev",
+            "address": "tunl.siritami.workers.dev",
             "port": 443,
             "users": [
               {
@@ -44,7 +44,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "siritami.workers.dev",
+            "address": "tunl.siritami.workers.dev",
             "port": 443,
             "users": [
               {
